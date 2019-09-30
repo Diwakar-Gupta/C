@@ -1,4 +1,4 @@
-#include<stdio.h>\
+#include<stdio.h>
 
 void disp(int[]);
 
@@ -10,10 +10,10 @@ int i=0;
 
 };
 
-void main(){
+int main(){
 
     int s[]={1,2,3,4,5};
 
     disp(s);
-
+	return 0;
 }

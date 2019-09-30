@@ -4,9 +4,9 @@ void main(){
 
 int i=0;
 
-prnt:{
+prnt:
 printf("%d",i);
-i++;};
+i++;
 if(i<10)
 goto prnt;
 

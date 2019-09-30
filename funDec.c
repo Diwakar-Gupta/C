@@ -1,9 +1,11 @@
-main (){
+#include <stdio.h>
+
+int main (){
 	
-	void foo(),f();
+	void foo();
 	
 	foo();
-	
+	return 0;
 }
 
 
